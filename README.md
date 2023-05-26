@@ -600,6 +600,22 @@ This is top 10, for more click **[Top 100 Stars in Scala](Top100/Scala.md)**
 | 9 | [CMAK](https://github.com/yahoo/CMAK) | 11376 | 2501 | Scala | 487 | CMAK is a tool for managing Apache Kafka clusters | 2023-05-25T13:23:09Z |
 | 10 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 9748 | 521 | Scala | 236 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2023-04-26T21:27:17Z |
 
+## Solidity & Web 3
+
+This is top 10, for more click 
+
+| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
+| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
+| 1 | [CryptoZombies](https://cryptozombies.io/es)
+| 2 | [AlchemyUniversity](https://university.alchemy.com)
+| 3 | [Ethereum Developer Program 1ª Edición](https://platzi.com/cursos/ethereum-dev-program-2022)
+| 4 | [Road-To-WEB-3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3)
+| 5 | [Speed-Run-Ethereum]([https://github.com/jgraph/drawio-desktop](https://speedrunethereum.com)
+| 6 | [A lot of Proyect WEB 3 & Solidity](https://github.com/gonzalolater)
+| 7 | []()
+| 8 | []()
+| 9 | []()
+| 10 | []()
 
 ## Shell
 
