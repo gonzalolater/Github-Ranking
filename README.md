@@ -612,7 +612,7 @@ This is top 10, for more click
 | 4 | [Road-To-WEB-3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3)
 | 5 | [Speed-Run-Ethereum]([https://github.com/jgraph/drawio-desktop](https://speedrunethereum.com)
 | 6 | [A lot of Proyect WEB 3 & Solidity](https://github.com/gonzalolater)
-| 7 | []()
+| 7 | [Segurity-Open-Zeppelin](https://github.com/OpenZeppelin)
 | 8 | []()
 | 9 | []()
 | 10 | []()
