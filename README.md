@@ -39,7 +39,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Shell](#shell)
-* [Solidity-&-Web3](#Solidity-&-Web3)
+* [Solidity-&-Web-3](#Solidity-&-Web-3)
 * [Swift](#swift)
 * [TeX](#tex)
 * [TypeScript](#typeScript)
