@@ -39,6 +39,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Shell](#shell)
+* [Solidity-&-Web3](#Solidity-&-Web3)
 * [Swift](#swift)
 * [TeX](#tex)
 * [TypeScript](#typeScript)
@@ -600,7 +601,7 @@ This is top 10, for more click **[Top 100 Stars in Scala](Top100/Scala.md)**
 | 9 | [CMAK](https://github.com/yahoo/CMAK) | 11378 | 2502 | Scala | 487 | CMAK is a tool for managing Apache Kafka clusters | 2023-05-25T13:23:09Z |
 | 10 | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 9753 | 521 | Scala | 236 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | 2023-04-26T21:27:17Z |
 
-## Solidity & Web 3
+## Solidity-&-Web-3
 
 This is top 10, for more click 
 
@@ -614,8 +615,8 @@ This is top 10, for more click
 | 6 | [A lot of Proyect WEB 3 & Solidity](https://github.com/gonzalolater)
 | 7 | [Segurity-Open-Zeppelin](https://github.com/OpenZeppelin)
 | 8 | [0x Project](https://github.com/0xProject/protocol) Exchange Infrastructure for the Internet
-| 9 | []()
-| 10 | []()
+| 9 | [Uniswap](https://github.com/Uniswap)
+| 10 | [Ethereum](https://github.com/ethereum)
 
 ## Shell
 
